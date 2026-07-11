@@ -87,13 +87,13 @@ Informasi tentang aplikasi, pembuat, dan teknologi yang digunakan.
 ![Katalog](katalog.png)
 
 ### Tambah Produk (CRUD)
-![CRUD](screenshots/crud.png)
+![CRUD](/crud.png)
 
 ### Detail Produk
-![Detail](screenshots/detail.png)
+![Detail](detail.png)
 
 ### Favorit
-![Favorit](screenshots/favorit.png)
+![Favorit](favorit.png)
 
 ---
 
