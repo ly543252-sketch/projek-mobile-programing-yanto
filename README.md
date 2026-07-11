@@ -78,13 +78,13 @@ Informasi tentang aplikasi, pembuat, dan teknologi yang digunakan.
 ## 📸 Screenshots
 
 ### Onboarding
-![Onboarding](screenshots/onboarding.png)
+![Onboarding](onboarding.png)
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ### Katalog Produk
-![Katalog](screenshots/katalog.png)
+![Katalog](katalog.png)
 
 ### Tambah Produk (CRUD)
 ![CRUD](screenshots/crud.png)
